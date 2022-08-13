@@ -1,4 +1,4 @@
-![alt text][img](https://ibb.co/yYWQ0Wq)[/img]("Triangles")
+![TRI LOGO](https://ibb.co/yYWQ0Wq)
 =====================================
 
 ##### This is DeepOnion legacy source code. It is superseded by the new code based on the latest bitcoin/litecoin codebase. All DeepOnion features are ported to the new codebase. The legacy codebase will be frozen unless for the critical bug fixes. It will co-exist with the new wallet for a while, then we will stop using the legacy codebase (timeline to be determined).
